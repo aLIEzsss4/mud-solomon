@@ -6,3 +6,4 @@
 
 [![emojimon demo](https://github.com/latticexyz/mud/blob/3fdaa9880639a9546f80fbffdcc4a713178328c1/tutorials/emojimon/images/emojimon-intro.gif?raw=true)](https://mud.dev/tutorials/emojimon/)
 # mud-solomon
+# mud-solomon
